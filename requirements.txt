@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pypdf
+langchain-mistralai
+langchain-core
+pydantic
